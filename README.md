@@ -6,7 +6,7 @@ Software Developer focused on building cross-platform applications and scalable 
 
 ### Apex Data – iOS (SwiftUI)
 
-Apex Data is a production-ready iOS application built with SwiftUI, focused on real-time data tracking and performance-driven design.
+Apex Data is an F1 companion iOS application built with SwiftUI, designed to track race weekends, provide session countdowns, and deliver real-time Formula 1 data with a performance-driven UI.
 
 <div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch; padding: 8px 0;">
   
@@ -30,7 +30,9 @@ Apex Data is a production-ready iOS application built with SwiftUI, focused on r
 
 <br>
 
-[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/...)
+<p align="left">
+  <img src="https://img.shields.io/badge/App%20Store-Coming%20Soon-black?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
 
 ---
 
@@ -86,8 +88,6 @@ Repository: https://github.com/gkhntpbs/Dje
 - Backend architecture  
 - Infrastructure & deployment  
 
----
-
 ## Tech Stack
 
 - Swift / SwiftUI  
@@ -95,4 +95,4 @@ Repository: https://github.com/gkhntpbs/Dje
 - Node.js  
 - Supabase  
 - AWS EC2 / Nginx / PM2  
-- Python
+- Python + AI
