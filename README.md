@@ -31,7 +31,9 @@ Apex Data is an F1 companion iOS application built with SwiftUI, designed to tra
 <br>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/App%20Store-Coming%20Soon-black?style=for-the-badge&logo=apple&logoColor=white" />
+  <a href="https://apps.apple.com/tr/app/apex-data-formula-companion/id6759412510" target="_blank">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="45" />
+  </a>
 </p>
 
 ---
